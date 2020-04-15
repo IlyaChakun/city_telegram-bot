@@ -42,4 +42,6 @@ REST (without jwt token) spec:
 | /cities/{cityId}      | PATCH     | partial update city   |
 
 
+Итог: 
 
+![alt tag](https://github.com/iChekun/city_telegram-bot/blob/master/screen.png)​
