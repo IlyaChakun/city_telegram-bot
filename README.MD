@@ -30,7 +30,7 @@
     Полное имя бота: СityBotHelper_bot
     3) Для проверки REST использовать postman
 
-REST (without jwt token) spec:
+REST end-points:
 
 | URL                   | Method    | Resources             |
 | ---------             | -----     | --------              |
